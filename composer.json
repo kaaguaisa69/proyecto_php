@@ -1,0 +1,8 @@
+{
+    "name": "kaaguaisa/mi-proyecto-php",
+    "description": "Proyecto PHP con Docker",
+    "require": {
+      "php": "7.4.*"
+    }
+  }
+  
